@@ -158,7 +158,7 @@ Built using a lightweight, beginner-friendly Python toolkit:
 ---
 
 ## 👥 Team
-**Team Name:** 
+**Team Name:** Nexgen 
 **Members:** Raizel Chauhan
              Harpreet Singh 
              Ashmit Mittal 
