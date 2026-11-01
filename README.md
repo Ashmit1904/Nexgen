@@ -158,8 +158,11 @@ Built using a lightweight, beginner-friendly Python toolkit:
 ---
 
 ## 👥 Team
-**Team Name:** [Insert Team Name]  
-**Members:** [Insert Member Names]
+**Team Name:** 
+**Members:** Raizel Chauhan
+             Harpreet Singh 
+             Ashmit Mittal 
+             Bhavika Ghai 
 
 ---
 *Diwali AirGuard — Moving cities from reacting to pollution to anticipating, managing, and learning from it.*
